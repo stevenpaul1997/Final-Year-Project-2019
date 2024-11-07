@@ -1,0 +1,1 @@
+Predicting Online Customer Behavior: This project involves developing a model to predict whether a customer will click on a specific item while browsing an e-commerce platform. This is my final year project
